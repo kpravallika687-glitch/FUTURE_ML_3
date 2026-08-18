@@ -1,0 +1,13 @@
+Data Engineer
+
+We are looking for a Data Engineer with experience in Python, SQL,
+databases, ETL, data pipelines, data warehousing, Apache Spark,
+AWS, Git, Linux and Pandas.
+
+Required skills:
+Python, SQL, MySQL, PostgreSQL, ETL, Data Warehousing,
+Apache Spark, AWS, Git, Linux, Pandas.
+
+Responsibilities include developing data pipelines, performing ETL,
+working with databases, maintaining data warehouses and processing
+large datasets.
